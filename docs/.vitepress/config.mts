@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "个人介绍", link: "/introduce-myself.md" },
+      { text: "个人介绍", link: "/introduce-myself" },
       { text: "工作总结", link: "/work" },
       { text: "学习总结", link: "/learning" },
       // { text: "Examples", link: "/markdown-examples" },
